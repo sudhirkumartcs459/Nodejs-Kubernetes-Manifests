@@ -20,7 +20,7 @@ spec:
     spec:
       containers:
       - name: nodejs-app
-        image: sudhirkumar123/nodejs-20:v1
+        image: sudhirkumar123/nodejs-20:7
 
         ports:
         - containerPort: 5006
